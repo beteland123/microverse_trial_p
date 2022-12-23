@@ -12,7 +12,9 @@ body{
 #tribute-info{
     color:rgb(22, 8, 1);
     font-size:medium;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    text-shadow: 2px 2px rgb(22, 21, 21);
 }
 
 #image{
@@ -26,6 +28,9 @@ display: block;
 #img-caption{
     color:darkolivegreen;
     font-size:large;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    text-shadow: 2px 2px rgb(10, 10, 10);
 }
 
 
